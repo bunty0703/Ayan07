@@ -1,28 +1,39 @@
-# नमस्ते 👋
+**About Me**
 
-## About Me
+I am a passionate and skilled software professional with a strong background in computer applications. I hold a post-graduation degree in Computer Applications, which has provided me with a solid foundation in software development principles, algorithms, and programming concepts.
 
-Hello World, I'm Ayan Brahma, a passionate data analyst with expertise in SQL and Power BI. I enjoy transforming raw data into actionable insights and compelling visualizations.
+### Skills
 
+**Programming Languages:**
+- Python (Proficient)
+- SQL (Proficient)
 
-## Skills
+**Web Development:**
+- Django (Proficient)
+- HTML/CSS
+- JavaScript
 
-- SQL
-- Power BI
-- Data Visualization
-- Data Cleaning and Transformation
-- Statistical Analysis
+**Databases:**
+- MySQL
+- PostgreSQL
+- SQLite
 
-## Contact
+**Tools & Technologies:**
+- Git/GitHub
+- Linux
+- Visual Studio Code
+- Postman
 
-📧 Email: ayanbrahma0703@gmail.com
+**Experience**
 
-🔗 LinkedIn: [ayan-brahma-96a1072a0](link_to_linkedin)
+During my academic journey and personal projects, I have gained extensive experience in Python programming, database management with SQL, and web development using the Django framework. I have a keen interest in building robust and scalable applications, focusing on clean code, efficient algorithms, and maintainable architectures.
 
-🐦 Twitter: [AyanBrahma07](link_to_twitter)
+I am well-versed in developing RESTful APIs, integrating with databases, and implementing user authentication and authorization systems using Django's built-in features or third-party libraries. Additionally, I have experience in designing and optimizing database schemas, writing complex SQL queries, and ensuring data integrity.
 
-## Let's Connect!
+Apart from my technical skills, I am a proactive learner and an effective communicator. I thrive in collaborative environments and enjoy working in teams to deliver high-quality software solutions.
 
-I'm always open to collaboration and discussions. If you have any questions, project ideas, or just want to connect, feel free to reach out!
+**Goals**
 
-Happy while coding! 🚀
+I am constantly seeking opportunities to enhance my skills and contribute to meaningful projects. My goal is to leverage my expertise in Python, SQL, and Django to build innovative and user-friendly applications that solve real-world problems.
+
+I am open to collaborating on exciting projects, contributing to open-source initiatives, or exploring new challenges that align with my interests and skills. Feel free to reach out to me for any potential collaborations or discussions.
